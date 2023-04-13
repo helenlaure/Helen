@@ -1,0 +1,376 @@
+body {background-color: #ffffff; color: #000000;}
+
+h1 {color: #000000;
+    margin-left: 20px;
+    font-size: 50px;
+position: relative;
+text-align: center;
+top: -50px;}
+
+.semestre{color: #000000;
+    margin-left: 20px;
+    font-size: 50px;
+position: relative;
+text-align: center;
+top: -100px;}
+
+p {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   width: 500px;
+   position: relative;
+   top: 250px;;
+   right: -900px;
+   font-size: 30px;
+   margin-left: 5px;
+    line-height: 35px;}
+
+h2 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        width: 500px;
+        position: relative;
+        top: 270px;;
+        right: -900px;
+        font-size: 30px;
+        margin-left: 5px;
+         line-height: 35px;}
+
+nav a {text-decoration: none;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       color: #ffffff;
+       font-size: 25px;
+       padding-left: 10px;
+       padding-right: 10px;}
+
+nav {position: relative;
+     background-color: #000000;
+     padding-top: 40px;
+     padding-bottom: 40px;
+     text-align: right;
+     padding-right: 40px;}
+
+
+nav a {opacity: 1;}
+nav a:hover{background-color: #ffffff;color: #ff0000;border-radius: 100px;}
+
+footer {text-align: center;
+     background-color: #d9d3c3; ;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     position: relative;padding-left: 10px;
+     top: -100px;}
+
+     footer a {padding: 20px;}
+
+.redes {text-align: center;
+        background-color: #d9d3c3; ;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        position: relative;padding-left: 10px;
+        top: 100px;}
+   
+.redes a {padding: 20px;}
+
+.sobre{color: #ff0000;
+        margin-left: 20px;
+        font-size: 50px;
+    position: relative;
+    text-align: center;
+    top: -100px;}
+
+.sobre1{color: #ff0000;
+        margin-left: 20px;
+        font-size: 50px;
+    position: relative;
+    text-align: center;
+    top: 30px;}
+
+
+
+.logo {background-color: #000000;
+        position: relative;
+        top: -99px;
+        left: 10px;}
+
+
+.minha {border-top-left-radius: 10px;
+         border-top-right-radius: 10px;
+         border-bottom-left-radius: 10px;
+         border-bottom-right-radius: 10px;
+         width: 800px;
+         right: -50px;
+         top: -300px;
+         position:relative;}
+
+.calendario {border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        width: 600px;
+        right:-500px;
+        top: -200px;
+        position: relative;}
+
+.suco {width: 400px;
+        right:550px;
+        top: -100px;
+        position: relative;}
+
+.pudim {border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        width: 600px;
+        right:-500px;
+        top: -200px;
+        position: relative;}
+
+
+.refri{border-top-left-radius: 10px;
+                border-top-right-radius: 10px;
+                border-bottom-left-radius: 10px;
+                border-bottom-right-radius: 10px;
+                width: 300px;
+                right: -100px;
+                top: -100px;
+                position: relative;}
+
+.biscoito {width: 400px;
+        right:-50px;
+        top: 200px;
+        position: relative;
+        padding-left: 90px;}
+                
+.biscoito1 {width: 400px;
+                right:100px;
+                top: 470px;
+                position: relative;}
+        
+
+.prija {border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+            width: 450px;
+            right:-40px;
+            top: -80px;
+            position: relative;}
+
+.lauretec{border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            border-bottom-left-radius: 10px;
+            border-bottom-right-radius: 10px;
+            width: 450px;
+            right: -100px;
+            top: -80px;
+            position: relative;}
+
+.bolls {border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        width: 450px;
+        right:-150px;
+        top: -150px;
+        position: relative;}
+
+.carcer {border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        width: 400px;
+        right:100px;
+        top: 200px;
+        position: relative;}
+
+.agilty {border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        width: 300px;
+        right:-100px;
+        top: -50px;
+        position: relative;}
+    
+    
+
+.knort {border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        width: 500px;
+        right: -100px;
+        top: -60px;
+        position: relative;}
+
+.curso {border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        width: 300px;
+        right:-450px;
+        top: -30px;
+        position: relative;}
+
+.designcon {border-top-left-radius: 10px;
+                border-top-right-radius: 10px;
+                border-bottom-left-radius: 10px;
+                border-bottom-right-radius: 10px;
+                width: 450px;
+                right:-600px;
+                top: -150px;
+                position: relative;}
+
+.laranja {
+        width: 300px;
+        right:-600px;
+        top: 60px;
+        position: relative;}
+
+
+
+.calendario{transition: all 1s;cursor: pointer;}
+.calendario:hover{transform: scale(1.5);}   
+
+
+.pudim {transition: all 1s;cursor: pointer;}
+.pudim:hover{transform: scale(1.5);}   
+
+.prija {transition: all 1s;cursor: pointer;}
+.prija:hover{transform: scale(1.5);}   
+
+.lauretec {transition: all 1s;cursor: pointer;}
+.lauretec:hover{transform: scale(1.5);}   
+
+.knort {transition: all 1s;cursor: pointer;}
+.knort:hover{transform: scale(1.5);}   
+
+.curso {transition: all 1s;cursor: pointer;}
+.curso:hover{transform: scale(1.5);}   
+
+.bolls {transition: all 1s;cursor: pointer;}
+.bolls:hover{transform: scale(1.5);}   
+
+.suco {transition: all 1s;cursor: pointer;}
+.suco:hover{transform: scale(1.5);} 
+
+.refri {transition: all 1s;cursor: pointer;}
+.refri:hover{transform: scale(1.5);}  
+
+.carcer {transition: all 1s;cursor: pointer;}
+.carcer:hover{transform: scale(1.5);}   
+
+.agilty {transition: all 1s;cursor: pointer;}
+.agilty:hover{transform: scale(1.5);}   
+
+.biscoito {transition: all 1s;cursor: pointer;}
+.biscoito:hover{transform: scale(1.5);} 
+
+.biscoito1 {transition: all 1s;cursor: pointer;}
+.biscoito1:hover{transform: scale(1.5);} 
+
+.designcon {transition: all 1s;cursor: pointer;}
+.designcon:hover{transform: scale(1.5);} 
+
+.laranja {transition: all 1s;cursor: pointer;}
+.laranja:hover{transform: scale(1.5);} 
+
+.sobrepudim {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        width: 400px;
+        position: relative;
+        top: -600px;
+        right: -100px;
+        font-size: 30px;
+        margin-left: 5px;
+        line-height: 35px;}
+
+.sobrepudim1 {
+                width: 800px;
+                right:-550px;
+                top: -200px;
+                position: relative;}
+
+.sobreprija {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        width: 400px;
+        position: relative;
+        top: -120px;;
+        right: -100px;
+        font-size: 30px;
+        margin-left: 5px;
+        line-height: 35px;
+        text-align: center;}
+                
+.sobreprija2 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                width: 650px;
+                position: relative;
+                top: -500px;;
+                right: -700px;
+                font-size: 30px;
+                margin-left: 5px;
+                line-height: 35px;
+                text-align: center;}
+
+.sobrecalendario {border-top-left-radius: 10px;
+                border-top-right-radius: 10px;
+                border-bottom-left-radius: 10px;
+                border-bottom-right-radius: 10px;
+                width: 600px;
+                right:-5px;
+                top: -200px;
+                position: relative;}
+
+.sobresuco {width: 350px;
+                        right:10px;
+                        top: -200px;
+                        position: relative;
+                        padding-left: 30px;}
+
+.sobresuco2 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                                width: 700px;
+                                position: relative;
+                                top: -1750px;;
+                                right: -800px;
+                                font-size: 30px;
+                                margin-left: 5px;
+                                line-height: 35px;}
+
+.sobrebubble {width: 350px;
+        right:-40px;
+        top: -200px;
+        position: relative;
+        padding-left: 30px;}
+
+.sobrebubble1 {width: 575px;
+                right:-40px;
+                top: -200px;
+                position: relative;
+                padding-left: 30px;}
+
+.sobrebubble2{width: 500px;
+        right:900px;
+        top: 200px;
+        position: relative;} 
+
+.sobrebubble3 {width:450px;
+                right:-550px;
+                top: -200px;
+                position: relative;
+                padding-left: 30px;}
+
+
+.sobrebolls{width:600px;
+        right:-450px;
+        top: -800px;
+        position: relative;
+        padding-left: 30px;}
+
+.sobrebolls1{width:450px;
+                right: 150px;
+                top: 20px;
+                position: relative;
+                padding-left: 30px;}
+
+.sobrebolls2 {font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        width: 400px;
+        position: relative;
+        top: -650px;;
+        right: -20px;
+        font-size: 30px;
+        margin-left: 5px;
+        line-height: 35px;
+        text-align: center;}
